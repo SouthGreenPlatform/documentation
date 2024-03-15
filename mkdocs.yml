@@ -1,0 +1,99 @@
+# Project information
+site_name: SouthGreen Documentation
+site_author: Jacques Dainat et al.
+site_url: https://southgreenplatform.github.io/documentation
+site_description: Documentation related to SouthGreen activities
+site_dir: public # When you build your site, all of the files are written to the directory assigned to the site_dir configuration option (defaults to "site")
+
+# Repository
+repo_name: 'documentation'
+repo_url: 'https://github.com/SouthGreenPlatform/documentation'
+edit_uri: edit/main/docs/ # Allow to replace edit/master/docs use by default
+
+# Configuration
+theme:
+  name: readthedocs
+  logo: pages/images/logo.jpeg # logo top left page
+  search_index_only: true
+  include_search_page: true
+  features:
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+  # - content.tabs.link
+    - content.tooltips
+    - header.autohide
+    # - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    # - navigation.instant
+    # - navigation.prune
+    # - navigation.sections # collapse subsections
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    - toc.integrate # remove table of content on the right side
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.snippets:
+      base_path: docs
+  - attr_list
+  - tables
+  - toc:
+      permalink: '#'
+
+# Plugins
+plugins:
+  - search:
+      separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - minify:
+      minify_html: true
+  - macros
+  - include-markdown
+
+# Customization
+extra:
+#  homepage:  # Page displayed when clicking the logo
+  history_buttons: false
+  # --- set whole scope variables ---
+  contact: https://www.southgreen.fr/contact
+  institute: SouthGreen
+  repo: https://forge.ird.fr/mivegec/dainat/malbec-nf-core
+  color_table_header: "#333a99"
+
+# page tree
+nav:
+    - Home: index.md
+    - Genome Hubs: pages/genome-hubs/page1.md
+    - Tools:
+        - type1: pages/tools/page1.md
+        - type2: pages/tools/page1.md
+    - Databases: pages/databases/page1.md
+    - Training courses: pages/training-courses/page1.md
+    - HPC: pages/hpc/page1.md
+    - Projects: pages/projects/page1.md
