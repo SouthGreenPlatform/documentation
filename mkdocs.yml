@@ -90,11 +90,13 @@ extra:
 # page tree
 nav:
     - Home: index.md
-    - Genome Hubs: pages/genome-hubs/page1.md
+    - Genome Hubs: pages/genome-hubs/index.md
     - Tools:
         - type1: pages/tools/page1.md
         - type2: pages/tools/page1.md
-    - Databases: pages/databases/page1.md
-    - Training courses: pages/training-courses/page1.md
+    - Databases: 
+        - list dbs: pages/databases/page1.md
+    - Training courses: 
+        - list courses: pages/training-courses/page1.md
     - HPC: pages/hpc/page1.md
     - Projects: pages/projects/page1.md

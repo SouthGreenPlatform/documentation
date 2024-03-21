@@ -1,4 +1,4 @@
-# South Green
+![](index_img/southgreen.jpeg){ width=800px }
 
 ## Who are we?
 
@@ -10,7 +10,7 @@ Based on this strong local community in the field of agriculture, food, biodiver
 
  * Access to [HPC infrastructures](http://www.southgreen.fr/content/computer-facilities) for calculation and storage with more than 400 analytical software  
  * Innovative open access [scientific databases](https://www.southgreen.fr/databases) and [tools](https://www.southgreen.fr/tools)  
- * A wide range of [Bioinformatics Training](http://southgreenplatform.github.io/trainings/) at nétional level and in the South
+ * A wide range of [Bioinformatics Training](http://southgreenplatform.github.io/trainings/) at national level and in the South
  
 
 ### The objectives of South Green are:
@@ -32,3 +32,26 @@ You can find the different members here: [https://southgreenplatform.github.io/s
 ## Contact
 
 To contact us, please send a mail at [{{config.extra.contact}}]({{config.extra.contact}}).
+
+---------------------------
+
+Partners
+
+![](index_img/partners/cirad.png){ width=100px }
+![](index_img/partners/alliance.jpg){ width=100px }
+![](index_img/partners/inrae.jpg){ width=100px }
+![](index_img/partners/ird.png){ width=80px }
+![](index_img/partners/supagro.png){ width=100px }
+<br>
+
+Funding Partners
+
+![](index_img/funding_partners/arcad.png){ width=100px }
+![](index_img/funding_partners/region.png){ width=80px }
+<br>
+
+Networks
+
+![](index_img/networks/renabi.jpg){ width=80px }
+![](index_img/networks/ibisa.png){ width=150px }
+![](index_img/networks/atgc.jpg){ width=150px }
