@@ -2,10 +2,12 @@
 
 The SG platform is supported by the following technical computer infrastructures  
 
-### MUSE HPC  
+### Muse HPC
+
+https://isdm.umontpellier.fr/
 
 nodes standard   
-2 node Bigmem  
+2 node Bigem  
 1 node R Studio  
 1 node GPU  
 
