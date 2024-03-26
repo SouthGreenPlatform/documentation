@@ -38,6 +38,15 @@ Basic help for cluster use
 The South Green platform is supported by 3 technical computer infrastructures hosted at Cirad, IRD and Bioversity. The main infrastructure is located at ISMD (MUSE). Before requesting an account, please read the Conditions of use (only in french at the moment).
 
 
+### Report a problem
+
+Report a cluster problem : https://bioinfo-agap.cirad.fr/signaler-un-dysfonctionnement
+
+Report a web site problem : https://hpc.cirad.fr/support/?customConfig=WebSiteContact
+
+
+
+
 ### User support
 
 Request a cluster account (in french) : https://bioinfo-agap.cirad.fr/account_form
