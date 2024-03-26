@@ -25,6 +25,8 @@ specific CIRAD-funded memberships. For further information, please visit these p
 
 ### ITrop HPC  
 
+site : https://bioinfo.ird.fr/index.php/cluster-fr/
+
 23 nodes standard  
 1 node bigmem  
 1 node supermem 1To RAM  
