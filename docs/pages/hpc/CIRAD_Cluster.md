@@ -1,4 +1,6 @@
-CIRAD cluster
+## CIRAD cluster
+
+
 The South Green bioinformatics platform provides access to high-performance computing resources (ISO certification). To access our facilities, you must have an user account to access the cluster to perform calculations or to use Galaxy workflows.
 
 - Request a cluster account : https://bioinfo-agap.cirad.fr/account_form
@@ -31,7 +33,15 @@ Basic help for cluster use
 - All the developers / managers / administrators should know about AGAP HPC data center
 - Quota limit (Best practice in french)
 
-Conditions of use
+### Conditions of use
 
 The South Green platform is supported by 3 technical computer infrastructures hosted at Cirad, IRD and Bioversity. The main infrastructure is located at ISMD (MUSE). Before requesting an account, please read the Conditions of use (only in french at the moment).
+
+
+### User support
+
+Request a cluster account (in french) : https://bioinfo-agap.cirad.fr/account_form
+
+Request a software installation on the cluster (in french) : https://bioinfo-agap.cirad.fr/install_form
+
 
