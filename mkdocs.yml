@@ -98,5 +98,7 @@ nav:
         - list dbs: pages/databases/page1.md
     - Training courses: 
         - list courses: pages/training-courses/page1.md
-    - HPC: pages/hpc/CIRAD_HPC.md
+    - HPC: 
+        - list1 : pages/hpc/CIRAD_Cluster.md
+        - list2 : pages/hpc/Computer_facilities.md
     - Projects: pages/projects/page1.md
