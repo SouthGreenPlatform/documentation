@@ -75,7 +75,7 @@ plugins:
       minify_html: true
   - macros
   - external-markdown
-#  - include-markdown # Package mkdocs-include-markdown-plugin
+  - include-markdown # Package mkdocs-include-markdown-plugin
 
 # Customization
 extra:
