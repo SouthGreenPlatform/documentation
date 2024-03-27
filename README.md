@@ -4,7 +4,7 @@
 # SouthGreen Documentation
 ---------------------------
 
-<img src="images/logo.jpeg" width="600" height="100" />
+<img src="images/southgreen.jpeg" width="600" height="100" />
 
 ## Table of Contents
 
