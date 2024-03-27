@@ -99,6 +99,6 @@ nav:
     - Training courses: 
         - list courses: pages/training-courses/page1.md
     - HPC: 
-        - list1 : pages/hpc/CIRAD_Cluster.md
-        - list2 : pages/hpc/Computer_facilities.md
+        - Cluster : pages/hpc/CIRAD_Cluster.md
+        - Facilities : pages/hpc/Computer_facilities.md
     - Projects: pages/projects/page1.md
